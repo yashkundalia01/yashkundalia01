@@ -10,7 +10,7 @@ I'm a student of Computer engineering from Dharmsinh Desai University. I'm inter
 
 ## Languages and tools
 
-<img title="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>  <img title="Android" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"/>  <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />  <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>  <img src='Image/2.png' width="150" height = "70">
+<img title="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>  <img title="Android" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"/>  <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />  <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>  
 <br>
 <img title="vs code studio" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/>  <img title="IntelliJ IDEA" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"/>  <img src='Image/1.png' width="150" height = "70">  <img src='Image/3.png' width="120" height = "60"> 
 
