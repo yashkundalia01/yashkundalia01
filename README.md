@@ -32,12 +32,7 @@ I'm a student of Computer engineering from Dharmsinh Desai University. I'm inter
 [![Playstore](https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg) Click here](https://play.google.com/store/apps/dev?id=5419800097061330747)
 
 ## Weather Forecast App (5500+ installs || 4.37 Star rating)
-<!-- <a><img title="vs code studio" src="./Image/last cover image1.jpg"/></a> -->
-<!-- <iframe width="420" height="345" src="https://www.youtube.com/embed/nlLJDjSteDQ?autoplay=1&mute=1&loop=1">
-</iframe> -->
-  
-  [![Watch the video](http://img.youtube.com/vi/nlLJDjSteDQ/0.jpg)](https://www.youtube.com/watch?v=nlLJDjSteDQ)
-<!-- [![IMAGE ALT TEXT]()](https://www.youtube.com/embed/nlLJDjSteDQ?autoplay=1&mute=1&loop=1) -->
+<a href="https://play.google.com/store/apps/details?id=com.yash.weatherforecast"><img src="./Image/last cover image1.jpg"/></a>
   
 
 ## Statistics 
@@ -53,3 +48,4 @@ I'm a student of Computer engineering from Dharmsinh Desai University. I'm inter
 ## Competitive Coding Profile #
 
 [<img src='Image/4.jpg' width="130" height = "40">](https://www.hackerrank.com/kundaliayash01)
+  [<img src='Image/4.jpg' width="130" height = "40">](https://www.hackerrank.com/kundaliayash01)
