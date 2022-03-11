@@ -48,4 +48,3 @@ I'm a student of Computer engineering from Dharmsinh Desai University. I'm inter
 ## Competitive Coding Profile #
 
 [<img src='Image/4.jpg' width="130" height = "40">](https://www.hackerrank.com/kundaliayash01)
-  [<img src='Image/4.jpg' width="130" height = "40">](https://www.hackerrank.com/kundaliayash01)
