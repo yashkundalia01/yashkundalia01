@@ -25,7 +25,7 @@ Mern Stack <br>
 
 [![Playstore](https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg) Click here](https://play.google.com/store/apps/dev?id=5419800097061330747)
 
-## Weather Forecast App (5500+ installs || 4.5 Star rating)
+## Weather Forecast App (7000+ installs || 4.5 Star rating)
 <a href="https://play.google.com/store/apps/details?id=com.yash.weatherforecast"><img src="./Image/last cover image1.jpg"/></a>
   
 
