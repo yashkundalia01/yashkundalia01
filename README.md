@@ -1,9 +1,26 @@
 # Hi, I'm Yash Kundalia👋
 
-I'm a student of Computer engineering from Dharmsinh Desai University. Student with good problem-solving skills and ability to perform well with a team. Passionate about coding and development.
+I'm experienced Software Engineer with 2 years of experience, with strong skills in Angular 15, TypeScript, Nx Workspace, JavaScript, and other front-end technologies, My work emphasizes inclusive, WCAG-compliant design practices, ensuring accessibility across all projects. I am also proficient in backend technologies, including C#, ASP.Net Core, and MSSQL. With a strong foundation in problem-solving and a collaborative mindset, I am passionate about continuous learning, innovation, and contributing to dynamic team environments that drive impactful software solutions.
+
+[Visit Portfolio Website](https://my-portfolio-zli1.vercel.app/)
 
 ## Technical  skills 
+
+
+<code> <img title="angular" height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"/></code>
+<code> <img title="asp .net core" height="50" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"/></code>
+<code> <img title="c#" height="50" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"/></code>
+<code><img title="Typesript" height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </code>
+<code> <img title="JavaScript" height="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"/> </code>
+<code> <img title="jQuery" height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/></code>
+<code> <img title="Java"  height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> </code>
+<code> <img title="Storybook"  height="50" src="https://icon.icepanel.io/Technology/svg/Storybook.svg"/> </code>
+<code> <img title="Html"  height="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg"/> </code>
+<code> <img title="Css"  height="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/> </code>
+<br>
+<br>
 Android App Developement <br> <img title="Android" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"/>
+<br>
 <br>
 Mern Stack <br>
 <code> <img title="reactjs" height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></code>
@@ -11,23 +28,17 @@ Mern Stack <br>
 <code> <img title="expressjs" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/></code>
 <code> <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
-## Languages and tools
+## Tools
 
-<img title="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> </code><code> <img title="JavaScript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/> </code>
-
-<code><img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" /> </code> <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>  
+<code><img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" /> </code>
 <br>
 <img title="vs code studio" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/>  <img title="IntelliJ IDEA" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"/>  <img src='Image/1.png' width="150" height = "70">  <img src='Image/3.png' width="120" height = "60"> 
 
-<code> <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
+## Coding Profile #
 
-## Google Playstore Account
+[<img src='Image/4.jpg' width="130" height = "40">](https://www.hackerrank.com/kundaliayash01)
+[<img src='https://leetcode.com/static/images/LeetCode_Sharing.png' width="130" height = "40">](https://leetcode.com/u/kundaliayash01/)
 
-[![Playstore](https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg) Click here](https://play.google.com/store/apps/dev?id=5419800097061330747)
-
-## Weather Forecast App (7000+ installs || 4.5 Star rating)
-<a href="https://play.google.com/store/apps/details?id=com.yash.weatherforecast"><img src="./Image/last cover image1.jpg"/></a>
-  
 
 ## Statistics 
 
@@ -39,6 +50,3 @@ Mern Stack <br>
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=yashkundalia01&show_icons=true)
 
 
-## Competitive Coding Profile #
-
-[<img src='Image/4.jpg' width="130" height = "40">](https://www.hackerrank.com/kundaliayash01)
